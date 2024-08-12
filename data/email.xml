@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<email>
+    <header>
+        <from>juan.perez@example.com</from>
+        <to>maria.gonzalez@example.com</to>
+        <subject>Reunión de Seguimiento</subject>
+        <date>2024-07-16T10:30:00</date>
+    </header>
+    <body>
+        <p>Estimada María,</p>
+        <p>Estoy coordinando una reunión para discutir los avances del proyecto. ¿Podrías confirmar tu disponibilidad para el viernes 19 de julio a las 10:00 AM?</p>
+        <p>Quedo atento a tu respuesta.</p>
+        <p>Saludos cordiales,</p>
+        <p>Juan Pérez</p>
+    </body>
+    <attachments>
+        <file name="informe.pdf" />
+    </attachments>
+</email>

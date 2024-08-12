@@ -1,0 +1,22 @@
+{
+  "header": {
+    "from": "juan.perez@example.com",
+    "to": "maria.gonzalez@example.com",
+    "subject": "Reunión de Seguimiento",
+    "date": "2024-07-16T10:30:00"
+  },
+  "body": {
+    "p": [
+      "Estimada María,",
+      "Estoy coordinando una reunión para discutir los avances del proyecto. ¿Podrías confirmar tu disponibilidad para el viernes 19 de julio a las 10:00 AM?",
+      "Quedo atento a tu respuesta.",
+      "Saludos cordiales,",
+      "Juan Pérez"
+    ]
+  },
+  "attachments": {
+    "file": {
+      "nameAttribute": "informe.pdf"
+    }
+  }
+}
